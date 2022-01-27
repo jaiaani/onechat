@@ -35,8 +35,9 @@
             "azulClaroTransparente": "#05c7f26e",
             "chapeu": "#F2AB27",
             "preto": "#0D0D0D",
-            "vermelho": "#F22727"
-
+            "vermelho": "#F22727",
+            "azulEscuroTransparente": "#0f60a6ab",
+            "azulClaroTransparente": "#05c7f26e"
         }
 
       }
