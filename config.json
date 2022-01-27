@@ -30,8 +30,9 @@
         },
         "onePiece":{
             "branco": "#F2F2F2",
+            "azulEscuroTransparente": "#0f60a6ab",
             "azulEscuro":"#0F5FA6",
-            "azulClaro": "#05C7F2",
+            "azulClaroTransparente": "#05c7f26e",
             "chapeu": "#F2AB27",
             "preto": "#0D0D0D",
             "vermelho": "#F22727"
